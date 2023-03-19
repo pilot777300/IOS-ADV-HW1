@@ -620,8 +620,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NavigTest/Info.plist;
-				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Test Location";
-				INFOPLIST_KEY_NSLocationUsageDescription = "Test Location";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app would like to use your location";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -649,8 +651,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NavigTest/Info.plist;
-				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Test Location";
-				INFOPLIST_KEY_NSLocationUsageDescription = "Test Location";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationUsageDescription = "This app would like to use your location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app would like to use your location";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";

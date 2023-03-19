@@ -1,9 +1,4 @@
-//
-//  MapViewControllr.swift
-//  NavigTest
-//
-//  Created by Mac on 18.03.2023.
-//
+
 
 import UIKit
 import MapKit

@@ -62,7 +62,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func createProfileViewController() -> UINavigationController {
         let profileViewController = MapViewController() //FeedViewController()
  
-   profileViewController.tabBarItem = UITabBarItem(title: "Карта", image: UIImage(systemName: "person.circle"), tag: 1)
+   profileViewController.tabBarItem = UITabBarItem(title: "Карта", image: UIImage(systemName: "mappin"), tag: 1)
         profileViewController.title = "Карта"
         let attributes = [NSAttributedString.Key.font: UIFont.boldSystemFont(ofSize: 26)]
         UINavigationBar.appearance().titleTextAttributes = attributes
